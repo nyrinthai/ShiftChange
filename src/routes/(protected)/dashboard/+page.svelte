@@ -12,6 +12,8 @@
     });
   }
 </script>
+<div>
+  <h1>Dashboard</h1>
+  <button on:click={handleSignOut}>Sign Out</button>
+</div>
 
-<h1>Dashboard</h1>
-<button on:click={handleSignOut}>Sign Out</button>
